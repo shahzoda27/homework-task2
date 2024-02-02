@@ -1,0 +1,110 @@
+{
+    "navbar": [
+      {
+        "name":"NFT Marketplace",
+        "title1":"Marketplace",
+        "title2":"Rankings",
+        "title3":"Connect a wallet",
+        "button":"Sigin up"
+      }
+    ],
+    "header":[
+        {
+            "name":"Discover digital art & Collect NFTs",
+            "desc":"NFT marketplace UI created with Anima for Figma. Collect, buy and sell art from more than 20k NFT artists.",
+            "button":"Get Started"
+        }
+    ],
+    "card":[
+        {
+            "id":1,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },
+        {
+            "id":2,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },
+        {
+            "id":3,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },
+        {
+            "id":4,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":5,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":6,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":7,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":8,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":9,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":10,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":11,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        },{
+            "id":12,
+            "name":"Keepitreal",
+            "sale":"Total Sales:",
+            "price":"34.53 ETH"
+        }
+    ],
+    "box":[
+        {
+            "name":"Distant Galaxy",
+            "desc":"MoonDancer",
+            "price":"Price",
+            "sale":"1.63 ETH",
+            "hight":"Highest Bid",
+            "width":"0.33 wETH"
+        },
+        {
+            "name":"Distant Galaxy",
+            "desc":"MoonDancer",
+            "price":"Price",
+            "sale":"1.63 ETH",
+            "hight":"Highest Bid",
+            "width":"0.33 wETH"
+        },
+        {
+            "name":"Distant Galaxy",
+            "desc":"MoonDancer",
+            "price":"Price",
+            "sale":"1.63 ETH",
+            "hight":"Highest Bid",
+            "width":"0.33 wETH"
+        }
+    ]
+}
